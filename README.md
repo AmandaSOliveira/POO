@@ -1,2 +1,2 @@
-# Object-oriented-programming
-Object-oriented programming code
+# POO
+POO code
